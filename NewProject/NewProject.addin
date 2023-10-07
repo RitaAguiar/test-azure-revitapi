@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<RevitAddIns>
+  <AddIn Type="Application">
+    <Name>Test Azure Storage Blob New Project</Name>
+    <Assembly>C:\ProgramData\Autodesk\Revit\Addins\2023\NewProject.dll</Assembly>
+    <AddInId>6e5f8a0b-0f12-4084-8edc-22f734a494e9</AddInId>
+    <FullClassName>NewProject.App</FullClassName>
+    <VendorId>RitaAguiar</VendorId>
+    <VendorDescription>rita.aguiar@outlook.com</VendorDescription>
+  </AddIn>
+</RevitAddIns>
